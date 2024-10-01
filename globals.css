@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.childContainer{
+background-color: aqua;
+font-size: larger;
+}
+
+.a1{
+  color: rgb(209, 14, 14);
+}
+ .a2{
+  color: red;
+ }
